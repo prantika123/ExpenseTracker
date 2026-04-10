@@ -10,6 +10,6 @@ Technologies Used-
 2.SQL
 How to Run:
 1. Open the file in IDLE or any Python editor
-2. Run the program: python expensetrackerpythonfile.py
-3. Follow the menu instructions.
+2. Run the program: expense_tracker.py
+4. Follow the menu instructions.
 Author- Prantika Maurya
