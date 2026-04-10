@@ -4,7 +4,7 @@ Features-
 1.Add new Expense
 2.View all expenses
 3.Calculate total expenses
-4.Data stored in CSV file.
+4.Data stored in Database.
 Technologies Used-
 1.Python
 2.SQL
